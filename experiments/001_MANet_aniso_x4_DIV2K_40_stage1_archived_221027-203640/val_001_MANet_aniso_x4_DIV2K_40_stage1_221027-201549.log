@@ -1,0 +1,2 @@
+22-10-27 20:16:35.372 - INFO: <epoch:  0, iter:       5> psnr_y: 20.212088, lr_psnr_y: inf, psnr_k: 42.099696
+22-10-27 20:22:13.810 - INFO: <epoch:  9, iter:   1,000> psnr_y: 20.212088, lr_psnr_y: inf, psnr_k: 48.759211
